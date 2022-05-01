@@ -3,6 +3,11 @@ body{
     margin: 10px;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+
+}
 #button{
     background-color: #EC4067;
     box-sizing: border-box;
@@ -25,6 +30,13 @@ body{
     
 }
 
+#navigation-links a{
+    color: black;
+}
+
+.school{
+    color: black;
+}
 .navigation li:first-child{
     font-size: 2em;
     margin-right: 30%; 
@@ -85,6 +97,11 @@ body{
     border: 1px solid #EC4067;
     color: #EC4067;
 }
+
+#explore-text a{
+    color: #EC4067;
+}
+
 .container-text ul{
     padding: 30px 0 0;
 }
@@ -266,7 +283,7 @@ body{
     font-size: 1.5em;
 }
 
-.contact-us{
+.contact-us a{
     color: #EC4067;
 }
 
@@ -279,6 +296,14 @@ footer p{
     vertical-align: middle;
 }
 
+#daniel-sobit a{
+    color: black;
+}
+
 .fa fa-heart{
  color: red;
+}
+
+a:hover{
+    background-color: orange;
 }
