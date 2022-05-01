@@ -30,13 +30,13 @@
 * CSS  - This was used to style the website's appearance.
 
 
-## Installation PrUocess
+## Installation Process
 *Clone from the repository using the command: git clone git@github.com:sobitd/Moringa-School-Landing-Page.git
 *Unzip the downloaded files in the directory where you will be working from.
 *Open the index.html file from the directory with a web browser.
 
 ##  Live Link
-*Click the following link to view the live application: 
+*Click the following link to view the live application: https://sobitd.github.io/Moringa-School-Landing-Page/
 
 
 ## Support and Contact Details
