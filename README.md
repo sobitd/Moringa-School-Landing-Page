@@ -21,8 +21,8 @@
 
 
 ## Requirements
-*Access to a computer or internet-enabled device
-*Access to internet
+*Access to a computer or internet-enabled device.
+*Access to internet.
 
 
 ## Technology Used
