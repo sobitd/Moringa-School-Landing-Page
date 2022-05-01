@@ -36,7 +36,7 @@
 *Open the index.html file from the directory with a web browser.
 
 ##  Live Link
-*Click the following link to view the live application: 
+*Click the following link to view the live application: https://sobitd.github.io/Moringa-School-Landing-Page/
 
 
 ## Support and Contact Details
