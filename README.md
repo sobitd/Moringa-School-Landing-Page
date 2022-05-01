@@ -1,3 +1,14 @@
-# Moringa School Landing Page
+# Moringa School Landing Page 
+# By Daniel Sobit
 
-This is a demo for Moringa school landing page.
+#                           Table of Contents
+
+                           -[Description]
+                           -[Features]
+                           -[Requirements]
+                           -[Technologies Used]
+                           -[Installation Process]
+                           -[Live Link]
+                           -[Support and Contact Details]
+                           -[Licence]
+
