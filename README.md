@@ -1,5 +1,5 @@
 ## Moringa School Landing Page 
-## By Daniel Sobit
+ By Daniel Sobit
 
 ##                          Table of Contents
 
