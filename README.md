@@ -22,7 +22,6 @@
 
 ## Requirements
 *Access to a computer or internet-enabled device
-
 *Access to internet
 
 
@@ -33,9 +32,7 @@
 
 ## Installation PrUocess
 *Clone from the repository using the command: git clone git@github.com:sobitd/Moringa-School-Landing-Page.git
-
 *Unzip the downloaded files in the directory where you will be working from.
-
 *Open the index.html file from the directory with a web browser.
 
 ##  Live Link
